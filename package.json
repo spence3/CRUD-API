@@ -1,0 +1,16 @@
+{
+  "name": "crud-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "spencer miller",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
