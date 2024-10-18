@@ -27,4 +27,4 @@ const productSchema = mongoose.Schema(
     
 )
 
-const product = mongoose.model("Products", ProductSchema)
+const product = mongoose.model("Products", productSchema)
